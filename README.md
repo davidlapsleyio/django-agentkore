@@ -1,4 +1,4 @@
-# agentkore
+# django-agentkore
 
 A Django extension for scaffolding and managing LLM-based agents in your Django projects.
 
